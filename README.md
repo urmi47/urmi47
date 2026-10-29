@@ -36,6 +36,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Apache PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-%23000000.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Developer Tools**
 
@@ -56,6 +57,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%230052CC.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Teradata Studio](https://img.shields.io/badge/Teradata%20Studio-F37021?style=for-the-badge&logo=teradata&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **AI Tools**
 
